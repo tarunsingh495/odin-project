@@ -1,2 +1,2 @@
 # odin-project
-Coding assignments rom odin project
+Coding assignments from odin project
